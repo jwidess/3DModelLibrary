@@ -1,2 +1,3 @@
 # 3DModelLibrary
 Used for samples of my 3D models.
+>Eventually I'll add a link here to easily explore these models along with more info...
